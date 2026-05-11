@@ -1,16 +1,103 @@
-## Hi there 👋
+# 💼 Anurag Patel - Automation Test Eng. Portfolio
 
-<!--
-**AnuragPatel94/AnuragPatel94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional portfolio! Here you'll find my projects, skills, and experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 About Me
+
+Test Engineer with 3+ years of experience. Passionate about deploy bug free application , open-source contribution, and continuous learning.
+
+---
+
+## 🎓 Education & Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| MLOps | Udemy | 2026 |
+| ML Fundamentals | OPU | 2026 |
+
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Duration | Description |
+|---|---|---|---|
+| Automation Test Engineer | Flucent Technologies | 2022-Present |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **ERP**
+- **Tech**: Java , Selenium, Rest Assured
+- **Description**: Full-stack erp solution with payment integration
+
+
+### 2. **Churn Prediction Model in Telecome Industry**
+- **Tech**: Python, Docker, K8s, AWS-S3, GitHub Action
+- **Description**: Pridict customer churn probability
+- **GitHub**: https://github.com/AnuragPatel94/ChurnModel-_Prediction_Pipline.git
+
+
+
+---
+
+## 🛠️ Skills Matrix
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, Python, TypeScript, Java, SQL |
+| **Automation Tool** | Selenium, PlayWright, Rest Assured, Postman, |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
+| **Cloud** | AWS (EC2, S3, Lambda), |
+| **Tools** | Git, Eclips, VS Code |
+
+---
+
+## 📊 Portfolio Statistics
+
+| Metric | Count |
+|--------|-------|
+| GitHub Repositories | 50+ |
+| Total Stars | 1000+ |
+| Open Source Contributions | 100+ |
+| Projects Completed | 25+ |
+| Blog Articles | 15+ |
+
+---
+
+## 📝 Blog & Articles
+
+- [Understanding Microservices Architecture](https://yourblog.com/microservices)
+- [React Hooks: Best Practices](https://yourblog.com/hooks)
+- [Docker for Beginners](https://yourblog.com/docker)
+- [Building Scalable APIs](https://yourblog.com/apis)
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn**: [Anurag Patel](https://linkedin.com/in/AnuragPatel94)
+- **Twitter**: [@AnuragPatel94](https://twitter.com/AnuragPatel94)
+- **Email**: anurag@example.com
+- **GitHub**: [AnuragPatel94](https://github.com/AnuragPatel94)
+
+---
+
+## 📞 Contact Form
+
+Feel free to reach out for:
+- Freelance projects
+- Full-time opportunities
+- Collaboration
+- General inquiries
+
+[Send Me a Message](mailto:anurag@example.com)
+
+---
+
+<div align="center">
+  Made with 💙 by Anurag Patel | © 2026
+</div>
