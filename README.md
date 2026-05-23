@@ -13,8 +13,8 @@ Test Engineer with 3+ years of experience. Passionate about deploy bug free appl
 ## 🎓 Education & Certifications
 
 | Certification | Issuer | Date |
-|PGDCA|SP University|2020|
-| MLOps | Udemy | 2026 |
+| PGDCA         |   SPU  | 2020 |
+| MLOps         | Udemy  | 2026 |
 | ML Fundamentals | OPU | 2026 |
 
 
