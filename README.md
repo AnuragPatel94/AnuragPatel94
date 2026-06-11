@@ -49,7 +49,7 @@ Test Engineer with 3+ years of experience. Passionate about deploy bug free appl
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | JavaScript, Python, TypeScript, Java, SQL |
+| **Languages** | Python,Java |
 | **Automation Tool** | Selenium, PlayWright, Rest Assured, Postman, |
 | **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
 | **Cloud** | AWS (EC2, S3, Lambda), |
@@ -61,22 +61,11 @@ Test Engineer with 3+ years of experience. Passionate about deploy bug free appl
 
 | Metric | Count |
 |--------|-------|
-| GitHub Repositories | 50+ |
-| Total Stars | 1000+ |
-| Open Source Contributions | 100+ |
-| Projects Completed | 25+ |
-| Blog Articles | 15+ |
+| GitHub Repositories | 20 |
+| Total Stars | 10+ |
 
----
 
-## 📝 Blog & Articles
 
-- [Understanding Microservices Architecture](https://yourblog.com/microservices)
-- [React Hooks: Best Practices](https://yourblog.com/hooks)
-- [Docker for Beginners](https://yourblog.com/docker)
-- [Building Scalable APIs](https://yourblog.com/apis)
-
----
 
 ## 🤝 Let's Connect
 
