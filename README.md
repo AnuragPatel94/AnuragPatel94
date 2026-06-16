@@ -1,4 +1,4 @@
-# 💼 Anurag Patel - Automation Test Eng. Portfolio
+# 💼 Anurag Patel - Automation Test Eng.
 
 Welcome to my professional portfolio! Here you'll find my projects, skills, and experience.
 
