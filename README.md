@@ -56,8 +56,8 @@ Test Engineer with 5 years of experience. Passionate about deploy bug free appli
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, Java |
-| **Automation Tool** | Selenium, PlayWright, Rest Assured, Postman, |
+| **Languages** | Java, Type Script, Python |
+| **Automation Tool** | Selenium, Playwright, Rest Assured, Postman, |
 | **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
 | **Cloud** | AWS (EC2, S3, Lambda), |
 | **Tools** | Git, Eclips, VS Code |
