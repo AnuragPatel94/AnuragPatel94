@@ -6,7 +6,7 @@ Welcome to my professional portfolio! Here you'll find my projects, skills, and 
 
 ## 👨‍💼 About Me
 
-Test Engineer with 3+ years of experience. Passionate about deploy bug free application , open-source contribution, and continuous learning.
+Test Engineer with 5 years of experience. Passionate about deploy bug free application , open-source contribution, and continuous learning.
 
 ---
 
@@ -25,18 +25,25 @@ Test Engineer with 3+ years of experience. Passionate about deploy bug free appl
 
 | Role | Company | Duration | Description |
 |---|---|---|---|
-| Automation Test Engineer | Flucent Technologies | 2022-Present |
+| Automation Test Engineer          | Nexogen Pvt. Ltd.               | October 2022 – July 2026  |  3 Years 9 Months |
+| IT & Application Support Engineer | Inquipo Technologies Pvt. Ltd.  | October 2020 – July 2022  |  1 Year 10 Months 
+
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. **ERP**
-- **Tech**: Java , Selenium, Rest Assured
+- **Tech**: Type Script, Playwright, Rest Assured
 - **Description**: Full-stack erp solution with payment integration
 
+- ### 2. **FinWell – Financial Management Web Application**
+- **Tech**: Java , Selenium, Rest Assured
+- **Description**: Full-stack solution with payment integration
 
-### 2. **Churn Prediction Model in Telecome Industry**
+
+### 4. **Churn Prediction Model in Telecome Industry**
 - **Tech**: Python, Docker, K8s, AWS-S3, GitHub Action
 - **Description**: Pridict customer churn probability
 - **GitHub**: https://github.com/AnuragPatel94/ChurnModel-_Prediction_Pipline.git
@@ -49,7 +56,7 @@ Test Engineer with 3+ years of experience. Passionate about deploy bug free appl
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python,Java |
+| **Languages** | Python, Java |
 | **Automation Tool** | Selenium, PlayWright, Rest Assured, Postman, |
 | **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
 | **Cloud** | AWS (EC2, S3, Lambda), |
