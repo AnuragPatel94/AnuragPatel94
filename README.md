@@ -38,12 +38,12 @@ Test Engineer with 5 years of experience. Passionate about deploy bug free appli
 - **Tech**: Type Script, Playwright, Rest Assured
 - **Description**: Full-stack erp solution with payment integration
 
-- ### 2. **FinWell – Financial Management Web Application**
+### 2. **FinWell – Financial Management Web Application**
 - **Tech**: Java , Selenium, Rest Assured
 - **Description**: Full-stack solution with payment integration
 
 
-### 4. **Churn Prediction Model in Telecome Industry**
+### 3. **Churn Prediction Model in Telecome Industry**
 - **Tech**: Python, Docker, K8s, AWS-S3, GitHub Action
 - **Description**: Pridict customer churn probability
 - **GitHub**: https://github.com/AnuragPatel94/ChurnModel-_Prediction_Pipline.git
